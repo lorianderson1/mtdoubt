@@ -1,1 +1,10 @@
 
+@font-face {
+    font-family: AharoniBold;
+    src: url(AharoniBold.tff);
+    font-weight: bold;
+}
+
+div {
+    font-family: AharoniBold;
+}
