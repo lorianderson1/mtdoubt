@@ -5,14 +5,12 @@ background-size: cover;
 }
 
 
-
-
 @font-face {
     font-family: AharoniBold;
     src: url(mtdoubt/stylesheet/AharoniBold.tff);
     font-weight: bold;
 }
 
-div {
+.header .h1 {
     font-family: AharoniBold;
 }
