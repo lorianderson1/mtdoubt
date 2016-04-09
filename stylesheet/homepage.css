@@ -1,6 +1,6 @@
 
-.film-background {
-background: url(http://i.imgur.com/wsYa1jx.jpg);
+html {
+background: url(http://i.imgur.com/wsYa1jx.jpg) cover no-repeat fixed
 
 
 }
