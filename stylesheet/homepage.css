@@ -7,5 +7,6 @@ background-size: cover;
 }
 
 .youtube {
-  z-index: 2;
+  position: relative;
+  top: 100px;
 }
