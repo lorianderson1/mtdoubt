@@ -1,6 +1,7 @@
 
 html {
-background: url(http://i.imgur.com/wsYa1jx.jpg) cover no-repeat fixed
+background: url(http://i.imgur.com/wsYa1jx.jpg) no-repeat fixed
+background-size: cover;
 
 
 }
