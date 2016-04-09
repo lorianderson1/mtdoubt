@@ -2,5 +2,6 @@
 html {
 background: url(http://i.imgur.com/wsYa1jx.jpg) no-repeat center fixed;
 background-size: cover;
+z-index: -1;
 
 }
