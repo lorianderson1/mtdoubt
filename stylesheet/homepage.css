@@ -13,6 +13,7 @@ z-index: -1;
 	padding-top: 25px;
 	height: 0;
 	overflow: hidden;
+	width: 560px;
 }
 .videoWrapper iframe {
 	position: absolute;
