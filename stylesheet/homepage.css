@@ -2,7 +2,8 @@
 html {
 background-image: url(http://i.imgur.com/tzNwpyb.jpg);
 background-size: cover;
-background-repeat: no-repeat;
+background-repeat: repeat-x;
+
 
 }
 
