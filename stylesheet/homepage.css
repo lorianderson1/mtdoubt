@@ -1,7 +1,7 @@
 
 .film-background {
-background: url(http://i.imgur.com/wsYa1jx.jpg) no-repeat center fixed;
+background: url(http://i.imgur.com/wsYa1jx.jpg);
 background-size: cover;
-z-index: -1;
+background-repeate: no-repeat;
 
 }
