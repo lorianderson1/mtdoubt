@@ -24,8 +24,8 @@ z-index: -1;
 }
 
 .video-container {
-	width: 560px;
-	max-width: 100%;
+	width: 50%;
+	max-width: 50%;
 	position: absolute;
 	z-index: 10;
 }
