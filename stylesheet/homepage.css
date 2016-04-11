@@ -8,7 +8,7 @@ z-index: -1;
 }
 
 
-.videoWrapper .embed-responsive .embed-responsive-16by9 {
+.videoWrapper .embed-responsive-item {
 	position: relative;
 	padding-bottom: 56.25%; /* 16:9 */
 	padding-top: 25px;
@@ -32,8 +32,8 @@ z-index: -1;
 
 iframe {
 
-    margin: none;
-    padding: none;
+    margin: 0;
+    padding: 0;
     border: none;
     line-height: 0;
    
