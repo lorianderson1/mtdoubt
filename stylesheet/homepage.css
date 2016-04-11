@@ -14,7 +14,7 @@ z-index: -1;
 	padding-top: 25px;
 	height: 0;
 	overflow: hidden;
-	width: 50%;
+	
 }
 .videoWrapper iframe {
 	position: absolute;
@@ -25,7 +25,6 @@ z-index: -1;
 }
 
 .video-container {
-	width: 50%;
 	max-width: 100%;
 	position: absolute;
 	z-index: 10;
@@ -37,7 +36,7 @@ iframe {
     padding: none;
     border: none;
     line-height: 0;
-    float: center; 
+   
 }
 
 
