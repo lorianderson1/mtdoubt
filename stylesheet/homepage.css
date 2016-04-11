@@ -9,7 +9,7 @@ z-index: -1;
 
 
 .videoWrapper {
-	position: absolute;
+	position: relative;
 	padding-bottom: 56.25%; /* 16:9 */
 	padding-top: 25px;
 	height: 0;
@@ -26,7 +26,7 @@ z-index: -1;
 
 .video-container {
 	width: 50%;
-	max-width: 50%;
+	max-width: 560px;
 	position: absolute;
 	z-index: 10;
 }
