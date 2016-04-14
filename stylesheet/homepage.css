@@ -12,11 +12,7 @@ z-index: -1;
 position: relative;
 padding-bottom: 56.25%;
 padding-top: 25px; 
-overflow: hidden;
-max-width: 560px;
-max-height: 315px;
-overflow: hidden;
-z-index: 10;
+
 }
 
 
@@ -32,7 +28,7 @@ height: 100%;
 
 
 .video-container {
-	max-width: 480px;
+	max-width: 560px;
 	position: absolute;
 	z-index: 10;
 	overflow: hidden;
