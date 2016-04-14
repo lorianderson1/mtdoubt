@@ -10,16 +10,17 @@ z-index: -1;
 .responsive-video {
 position: relative;
 padding-bottom: 56.25%;
-padding-top: 60px; overflow: hidden;
+padding-top: 25px; 
+overflow: hidden;
 }
 
 
 .responsive-video iframe {
 position: absolute;
-top: 0;
-left: 0;
-width: 35%;
-height: 35%;
+top: 100;
+left: 100;
+width: 50%;
+height: 50%;
 }
 
 
@@ -28,6 +29,7 @@ height: 35%;
 	max-width: 35%;
 	position: absolute;
 	z-index: 10;
+	overflow: hidden;
 }
 
 iframe {
