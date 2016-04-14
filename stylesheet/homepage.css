@@ -8,7 +8,7 @@ z-index: -1;
 }
 
 
-.videoWrapper .embed-responsive-item {
+.videoWrapper .embed-responsive {
 	position: relative;
 	padding-bottom: 56.25%; /* 16:9 */
 	padding-top: 25px;
