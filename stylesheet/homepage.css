@@ -5,10 +5,7 @@ background-size: cover;
 background-position: absolute;
 z-index: -1;
 
-}
 
-.containing-block {
-	width: 40%;
 }
 
 .responsive-video {
@@ -30,7 +27,7 @@ height: 100%;
 
 
 .video-container {
-	max-width: 500px;
+	max-width: 480px;
 	position: absolute;
 	z-index: 10;
 	overflow: hidden;
