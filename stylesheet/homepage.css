@@ -27,7 +27,7 @@ height: 100%;
 
 
 
-.video-container {
+#v {
 	max-width: 560px;
 	position: absolute;
 	z-index: 10;
