@@ -13,8 +13,8 @@ position: relative;
 padding-bottom: 56.25%;
 padding-top: 25px; 
 overflow: hidden;
-max-width: 480px;
-max-height: auto;
+max-width: 560px;
+max-height: 315;
 overflow: hidden;
 z-index: 10;
 }
