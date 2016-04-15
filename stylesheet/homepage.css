@@ -1,5 +1,4 @@
-
-html {
+body {
 background: url(http://i.imgur.com/wsYa1jx.jpg) no-repeat center fixed;
 background-size: cover;
 background-position: absolute;
@@ -16,6 +15,9 @@ width: 50%;
 height: 50%;
 max-width: 560px;
 max-height: 315px;
+top: 100px;
+margin-left: auto;
+margin-right:auto;
 
 }
 
@@ -47,6 +49,10 @@ iframe {
     line-height: 0;
    
 }
+
+
+
+
 
 
 
