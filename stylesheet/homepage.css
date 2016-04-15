@@ -42,20 +42,7 @@ height: 100%;
 	
 }
 
-#b {
-	background-color: Transparent;
-	border: 2px solid white;
-	text-align: center;
-	text-decoration: none;
-	display: inline-block;
-	font-size: 16px;
-	font-family: Lucida Console;
-	color: white;
-	padding: 30px;
-	position: absolute;
-	left: 45%;
-	
-}
+
 iframe {
 
     margin: 0;
