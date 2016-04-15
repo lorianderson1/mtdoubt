@@ -20,12 +20,25 @@
   </div>
   
  
-
-
- 
-
-
 </body>
+
+<script type="text/javascript">
+
+function repositionVideo() {
+	var video = document.getElementById('v');
+	var top = (window.innerHeight / 2) - (video.height / 2) - 100;
+	video.style.top = top + 'px';
+}
+
+window.onload = function() {
+	repositionVideo();
+}
+
+window.onresize = function(e) {
+	repositionVideo();
+}
+</script>
+
 
 </html>
   
