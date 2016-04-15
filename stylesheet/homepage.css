@@ -43,7 +43,7 @@ height: 100%;
 	overflow: hidden;
 }
 
-.button {
+.button .button-container {
 	background-color: Transparent;
 	border: solid, white;
 	text-align: center;
