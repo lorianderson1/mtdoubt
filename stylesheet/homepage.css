@@ -74,10 +74,7 @@ height: 100%;
     letter-spacing: 1px;
     text-transform: uppercase;
     border-radius: 0;
-    vertical-align: bottom;
-    position: relative;
-    top: 300px;
-    max-width: 100%;
+    
     
 }
 .btn:focus, .btn:active:focus, .btn.active:focus {
@@ -103,12 +100,7 @@ height: 100%;
 	background-color: Transparent;
 }
 
-.center-block() { {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
 
-}
 
 
 iframe {
