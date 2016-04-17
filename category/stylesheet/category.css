@@ -1,1 +1,8 @@
+body {
+background: url(http://i.imgur.com/WgWHoMC.jpg) no-repeat center fixed;
+background-size: cover;
+background-position: absolute;
+z-index: -1;
 
+
+}
