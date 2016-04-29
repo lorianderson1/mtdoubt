@@ -79,7 +79,12 @@ height: 100%;
     top: 300px;
     max-width: 20%;
     
-  
+}
+    
+  .btn-responsive {
+    white-space: normal !important;
+    word-wrap: break-word;
+
       
   }
   
